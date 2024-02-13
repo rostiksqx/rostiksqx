@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/sqx(@rostik)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sqx(@rostik)" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rostik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rostik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sqx_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sqx_r" height="30" width="40" /></a>
 </p>
 
