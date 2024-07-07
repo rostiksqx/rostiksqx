@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rostik</h1>
 <h3 align="center">I study software engineering at university, learn web development and go in the gym</h3>
 
-- 🌱 I’m currently learning **NEXT.JS**
-
 - 👯 I’m looking to collaborate on **Clothing shop, blog and something similar**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rostiksqx](https://github.com/rostiksqx)
 
-- 💬 Ask me about **ASP.NET**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rostyslav.derkach@knu.ua**
 
