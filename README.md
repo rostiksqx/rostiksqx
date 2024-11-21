@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rostik</h1>
-<h3 align="center">I study software engineering at university, learn web development and go in the gym</h3>
-
-- 👯 I’m looking to collaborate on **Clothing shop, blog and something similar**
+<h3 align="center">I'm Full-Stack Developer, who is waiting for your suggestions</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rostiksqx](https://github.com/rostiksqx)
 
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rostyslav.derkach@knu.ua**
+- 📫 How to reach me **rostyslavderkach05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
