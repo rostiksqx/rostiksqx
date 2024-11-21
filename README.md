@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/rostik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rostik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sqx_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sqx_r" height="30" width="40" /></a>
+<a href="https://t.me/rostik_sqx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="rostik" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~014756e7b4aa9ad1d9?mp_source=share" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/744/960/png-transparent-upwork-computer-icons-freelancer-others.png" alt="sqx_r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
